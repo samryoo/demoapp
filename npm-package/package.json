@@ -1,6 +1,6 @@
 {
   "name": "stacheql",
-  "version": "2.0.5",
+  "version": "2.0.8",
   "description": "simple and fast server-side cache for graphql",
   "main": "stache.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/StacheQL/StacheQL/issues"
   },
-  "homepage": "https://github.com/StacheQL/StacheQL#readme",
+  "homepage": "https://github.com/stacheql/StacheQL#readme",
   "dependencies": {
     "ioredis": "^4.9.5"
   }
